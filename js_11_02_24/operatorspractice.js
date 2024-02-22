@@ -1,3 +1,5 @@
+//typeof operator is use to get the type of any variable
+
 //Aritmetic Operator
 let a = 10;
  let b = 5;
