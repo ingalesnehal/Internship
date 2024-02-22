@@ -25,4 +25,4 @@ var b =10;
 
 //Temporal Dead zone :- let & const
 //A variable declared with let, const, or class is said to be in a "temporal dead zone" (TDZ) from the start of the block until code execution reaches the place where the variable is declared and initialized. While inside the TDZ, the variable has not been initialized with a value, and any attempt to access it will result in a ReferenceError.
-//
+
