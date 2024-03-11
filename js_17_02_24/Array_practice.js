@@ -69,14 +69,14 @@
 
         //slice():- this method is use to get any part from the array
        // syntax:- Slice(startidx,endidx);
-
+                                                                 
         //splice():- this method is use to change the original array (add,remove,replace)
          //let val=arr1.splice(startidx,deletecount,newelement);
         
         //ex:-
-        let arr1= [1,2,3,4,5,6,6,7];
+        let arr1= [1,2,3,4,5,6,6,7];            
         arr1.unshift(10,11,13);
-        console.log(arr1);
+        console.log(arr1);     
 
         let arr3= arr1.shift();
         console.log(arr3);
